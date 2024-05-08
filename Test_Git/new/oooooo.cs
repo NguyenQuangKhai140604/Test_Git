@@ -1,6 +1,9 @@
-﻿namespace Test_Git.new
+﻿namespace Test_Git
 {
     public class oooooo
-{
+    {
+
+    }
+
 }
-}
+
